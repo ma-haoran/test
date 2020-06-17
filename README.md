@@ -1,2 +1,3 @@
-# test
-just a test
+# testing
+A repository that will linked with RStudio
+
